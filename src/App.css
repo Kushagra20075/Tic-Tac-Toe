@@ -1,0 +1,27 @@
+body{
+  background-color: black;
+}
+
+.square{
+  height: 100px;
+  width: 100px;
+  color: white;
+}
+.game-info{
+  font-size: 50px;
+  padding-left: 50px;
+}
+
+.status{
+  font-weight: bold;
+  color: white;
+}
+
+
+.square{
+  background-color: transparent;
+  border-color: white;
+}
+ol{
+  color: white;
+}
